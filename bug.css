@@ -1,0 +1,6 @@
+The following CSS code snippet exhibits an uncommon error where the expected background image doesn't appear due to a missing or incorrect path.  The path might be wrong relative to the CSS file, the image might not exist, or the image file type might be unsupported. 
+```css
+.my-element {
+  background-image: url(images/background.jpg);
+}
+```
